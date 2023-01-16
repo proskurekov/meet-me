@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.2d08905b.css","mappings":"AAAA,KACE,iBAAkB,CADpB,WAII,UADA,cACU","sources":["application.scss"],"sourcesContent":[".App {\n  text-align: center;\n  .test {\n    font-size: 30px;\n    color: red;\n  }\n}\n"],"names":[],"sourceRoot":""}
